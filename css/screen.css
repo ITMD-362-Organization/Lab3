@@ -219,23 +219,31 @@ body {
 
 h1 {
    font-size: 2em;
+   margin: 1.6em;
 }
 
-p{
-   font-size: 1.6em;
+p {
+   font-size: 1.2em;
+   margin: 1.4em;
+}
+
+label {
+   margin-top: 1.2em;
 }
 
 input {
    border: none;
    background-color: #bdc6d7;
    border-radius: 5px;
+   margin-top: 1.2em;
 }
 
 #submit {
    color: #b15b58;
    background-color: #bdc6d7;
    border: none;
-   padding: .6em;
+   padding: .4em .8em;
    border-radius: 10px;
+   margin: 1.2em;
 }
    
