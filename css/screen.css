@@ -210,8 +210,22 @@ label {
 /* ===== STATE STYLES ======= */
 
 body {
-   font-size: 14pt;
-   color: #bdc6d7;
+   font-size: 20pt;
+   color: #b15b58;
    font-family: 'Piazzolla', serif;
    text-align: center;
 }
+h1 {
+   font-size: 2em;
+}
+
+input {
+   border: none;
+   background-color: #bdc6d7;
+}
+
+#submit {
+   color: #b15b58;
+   background-color: #bdc6d7;
+   border: none;
+   
