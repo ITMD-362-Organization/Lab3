@@ -214,19 +214,28 @@ body {
    color: #b15b58;
    font-family: 'Piazzolla', serif;
    text-align: center;
+   line-height: .8em;
 }
+
 h1 {
    font-size: 2em;
+}
+
+p{
+   font-size: 1.6em;
 }
 
 input {
    border: none;
    background-color: #bdc6d7;
+   border-radius: 5px;
 }
 
 #submit {
    color: #b15b58;
    background-color: #bdc6d7;
    border: none;
+   padding: .6em;
+   border-radius: 10px;
 }
    
