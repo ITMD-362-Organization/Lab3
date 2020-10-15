@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:wght@200&display=swap');
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -15,7 +16,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
  * 1. Change the font styles in all browsers (opinionated).
  * 2. Remove the margin in Firefox and Safari.
  */
-@import url('https://fonts.googleapis.com/css2?family=Piazzolla:wght@200&display=swap');
+
 
 button,
 input,
@@ -215,7 +216,7 @@ body {
    font-family: 'Piazzolla', serif;
    text-align: center;
    line-height: .8em;
-   backgroung-color: white;
+   background-color: white;
 }
 
 #content {
@@ -285,3 +286,4 @@ input {
    div {
       width: 70%;
    }
+}
