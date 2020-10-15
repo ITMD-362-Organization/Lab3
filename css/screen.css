@@ -224,6 +224,7 @@ body {
    background-color: rgb(200,200,200);
    border-radius: 5px;
    width: 65%;
+   text-align: center;
 }
 
 h1 {
@@ -240,11 +241,12 @@ p {
 label {
    padding-top: 1.2em;
    display: inline-block;
+   text-align: left;
 }
 
 
 div {
-   text-align: left;
+   text-align: center;
    width: 45%;
    margin: 1em auto;
 }
@@ -258,6 +260,7 @@ input {
    background-color: white;
    border-radius: 5px;
    margin-top: 1.2em;
+   text-align: left;
 }
 
 #age-verification {
