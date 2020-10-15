@@ -230,7 +230,7 @@ body {
 
 h1 {
    font-size: 2em;
-   padding: 1.6em;
+   padding: 1.1em;
    color: rgb(50,50,50);
 }
 
@@ -244,7 +244,6 @@ label {
    display: inline-block;
    text-align: left;
 }
-
 
 div {
    text-align: center;
