@@ -218,9 +218,9 @@ body {
    backgroung-color: white;
 }
 
-form {
+#content {
    padding: 1.8em;
-   backgroun-color: rgb(200,200,200);
+   background-color: rgb(200,200,200);
 }
 
 h1 {
@@ -239,10 +239,15 @@ label {
    display: inline-block;
 }
 
-ol {
+
+div {
    text-align: left;
    width: 30%;
    margin: 1em auto;
+}
+
+ol {
+   text-align: center;
 }
 
 input {
@@ -250,6 +255,10 @@ input {
    background-color: white;
    border-radius: 5px;
    margin-top: 1.2em;
+}
+
+#age-verification {
+   border: none;
 }
 
 #submit {
