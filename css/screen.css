@@ -265,48 +265,14 @@ label {
    border: none;
    margin: 10px;
    font-family: 'Piazzolla', monospace, serif;
+   padding: 10px 15px;
 }
 
 #submit.hover {
    background-color: white;
    color: rgb(100,100,100);
 }
-   
-   
-/*
-
-label {
-   padding: 8px;
-   display: inline-block;
-}
-
-input {
-   border: none;
-   background-color: white;
-   border-radius: 5px;
-   margin: 8px;
-}
-
-#age-verification {
-   border-color: rgb(50,50,50);
-}
-
-#submit {
-   color: white;
-   font-size: 25px;
-   background-color: rgb(90,90,90);
-   border: none;
-   border-color: rgb(50,50,50);
-   padding: 10px 16px;
-   border-radius: 10px;
-   margin-top: 12px;
-   margin-bottom: 25px;
-   margin-right: auto;
-   margin-left: auto;
-   font-family: 'Piazzolla', monospace, serif;
-   text-align: center;
-}
-*/   
+     
 @media only screen and (min-width: 500px) {
    
    #content {
