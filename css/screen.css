@@ -219,7 +219,9 @@ body {
 }
 
 form {
+   padding: 1.8em;
    backgroun-color: rgb(200,200,200);
+}
 
 h1 {
    font-size: 2em;
@@ -229,7 +231,7 @@ h1 {
 
 p {
    font-size: 1.2em;
-   margin: 1.4em;
+   margin-bottom: 1.4em;
 }
 
 label {
@@ -243,7 +245,7 @@ ol {
 
 input {
    border: none;
-   background-color: #bdc6d7;
+   background-color: white;
    border-radius: 5px;
    margin-top: 1.2em;
 }
