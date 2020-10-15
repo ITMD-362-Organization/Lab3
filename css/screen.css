@@ -242,7 +242,7 @@ p {
    font-size: 28px;
    padding: 10px;
 }
-
+/*
 
 label {
    padding: 8px;
@@ -275,7 +275,7 @@ input {
    font-family: 'Piazzolla', monospace, serif;
    text-align: center;
 }
-   
+*/   
 @media only screen and (min-width: 500px) {
    ol {
       width: 80%;
