@@ -211,16 +211,20 @@ label {
 
 body {
    font-size: 20pt;
-   color: #b15b58;
+   color: rgb(100,100,100);
    font-family: 'Piazzolla', serif;
    text-align: center;
    line-height: .8em;
-   backgroung-color: #a29a9d;
+   backgroung-color: white;
 }
+
+form {
+   backgroun-color: rgb(200,200,200);
 
 h1 {
    font-size: 2em;
    margin: 1.6em;
+   color: rgb(50,50,50);
 }
 
 p {
@@ -230,7 +234,12 @@ p {
 
 label {
    margin-top: 1.2em;
+   display: inline-block;
 }
+
+ol {
+   text-align: left;
+   width: 30%
 
 input {
    border: none;
@@ -240,11 +249,15 @@ input {
 }
 
 #submit {
-   color: #b15b58;
-   background-color: #bdc6d7;
+   color: white;
+   background-color: rgb(50,50,50);
    border: none;
    padding: .4em .8em;
    border-radius: 10px;
    margin: 1.2em;
 }
    
+@media only screen and (min-width: 500px) {
+   ol {
+      width: 80%;
+   }
